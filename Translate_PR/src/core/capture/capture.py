@@ -32,4 +32,5 @@ class ScreenCapture:
     def save_screenshot(self, img: Image.Image, file_path: str) -> None:
  
         img.save(file_path)
+
    
