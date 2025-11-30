@@ -3,6 +3,7 @@ import mss.tools
 from mss import mss as mss_instance
 from PIL import Image
 from typing import Tuple
+#Có cách chụp kiểu khác để nó ấy được overlay
 class ScreenCapture:
     #Khởi tạo biến self và lớp thuộc tính của nó
     def __init__(self):
