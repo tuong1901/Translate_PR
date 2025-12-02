@@ -16,4 +16,4 @@ if __name__ == "__main__":
    text = paddl_ocrs(IMG_PATH, lang="en")   # gọi hàm nhận dạng
    print(text.recognize())  
    
-   
+   test main
